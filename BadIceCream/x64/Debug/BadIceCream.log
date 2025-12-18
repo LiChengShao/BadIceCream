@@ -1,0 +1,4 @@
+﻿  MazeGame.cpp
+C:\Users\WZ\Desktop\编程项目\MiGong\BadIceCream\BadIceCream\MazeGame.cpp(1284,9): warning C4101: “selectedLevel”: 未引用的局部变量
+C:\Users\WZ\Desktop\编程项目\MiGong\BadIceCream\BadIceCream\MazeGame.cpp(1886,13): warning C4101: “selectedChoice”: 未引用的局部变量
+  BadIceCream.vcxproj -> C:\Users\WZ\Desktop\编程项目\MiGong\BadIceCream\x64\Debug\BadIceCream.exe
